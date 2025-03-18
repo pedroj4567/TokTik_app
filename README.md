@@ -1,16 +1,19 @@
-# tok_tik
+# TokTik App
 
-A new Flutter project.
+Es un proyecto creado con Flutter para conocer como es el comportamiento que poseen las aplicaciones moviles que usamos dia a dia.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Media
 
-A few resources to get you started if this is your first Flutter project:
+Esta app usa videos cargados nativamente en memoria del dispositivo. 
+Pueden usar diferentes fuentes de datos para poder cargarle informacion. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Temas aplicados:
+
+1.- Uso de customWidgets
+2.- Integrar video play a la aplicacion.
+3.- Implementar interaccion de pagueView para transiciones verticales.
+4.- Carga de widgets de manera diferida.
+
+![Screenshot 2025-03-17 at 5 18 22 PM](https://github.com/user-attachments/assets/9a22ea28-ba68-4cc4-becb-55562c6082c9)
